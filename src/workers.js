@@ -1,4 +1,4 @@
-import gplay from './gplay-worker-patch/index.js';
+import gplay from './index.js';
 
 export default {
   async fetch() {
